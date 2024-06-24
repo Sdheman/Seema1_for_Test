@@ -1,2 +1,1 @@
-Seema1_for_Test for Asif for test for Farooq
-READMD.md
+README.md
